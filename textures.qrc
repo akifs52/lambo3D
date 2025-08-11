@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/sources">
+        <file>sources/bottom.jpg</file>
+        <file>sources/engine.jpg</file>
+        <file>sources/glass.png</file>
+        <file>sources/info.txt</file>
+        <file>sources/interior.jpg</file>
+        <file>sources/lamborghini rear logo.png</file>
+        <file>sources/lamborghini support logo.png</file>
+        <file>sources/lamborghini.obj</file>
+        <file>sources/plate am b.jpg</file>
+        <file>sources/stitch.png</file>
+        <file>sources/tex1.jpg</file>
+        <file>sources/tex2.jpg</file>
+        <file>sources/tex3.jpg</file>
+        <file>sources/tire side.jpg</file>
+        <file>sources/tire.jpg</file>
+        <file>sources/windo.png</file>
+        <file>sources/black-road-texture.jpg</file>
+    </qresource>
+</RCC>
